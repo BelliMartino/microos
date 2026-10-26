@@ -1,2 +1,2 @@
 # microos
-A micro OS in batch
+A micro OS run in batch
